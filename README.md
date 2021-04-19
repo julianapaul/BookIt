@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-[A restaurant reservation app that will let the users book a table at their favorite restaurant.]
+A restaurant reservation app that will let the users book a table at their favorite restaurant.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -25,7 +25,7 @@
 
 **Required Must-have Stories**
 
-* [User can find the resturant theywant to eat at]
+* User can find the resturant theywant to eat at
 * ...
 
 **Optional Nice-to-have Stories**
