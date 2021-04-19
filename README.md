@@ -12,12 +12,12 @@ A restaurant reservation app that will let the users book a table at their favor
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Social Networking
+- **Mobile:** This app would be primarily developed for mobile. Functionality wouldn’t be limited to mobile devices, however mobile version could potentially have more features.
+- **Story:** Analyzes users restaurant choices, and begins to show them similar choices. The user can book a table at the restaurant of their choice.
+- **Market:** This app would available to any individual.
+- **Habit:** This app coould be used as often as the user wanted depending on how much they would like to eat out.
+- **Scope:** First we would start with promoting similar resturants based on cusine taste. Large potential for use with Doordash, GrubHub, or streaming applications.
 
 ## Product Spec
 
@@ -25,17 +25,24 @@ A restaurant reservation app that will let the users book a table at their favor
 
 **Required Must-have Stories**
 
-* User can find the resturant theywant to eat at
-* ...
+* User can search the restaurant of the their choice.
+* Profile pages for each user
+* User can book at table.
+* User can see the resturants availability.
+* User can see the number of seats available at a table.
+* User can log in to confirm bookings.
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can see the entire floor map of each restauant.
+* User can see information about the restuarant.
+* Log of past reservations.
+* Profile Add-On: Top restaurant choices, etc.
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* Login
+* Register
    * [list associated required story here]
    * ...
 * [list second screen here]
