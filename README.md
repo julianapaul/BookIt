@@ -64,7 +64,6 @@ A restaurant reservation app that will let the users book a table at their favor
    * ...
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="BookIt Wireframes.JPG" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
