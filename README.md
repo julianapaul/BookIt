@@ -45,14 +45,16 @@ A restaurant reservation app that will let the users book a table at their favor
    * Allows user to search up the resturant they to eat at
 * Resturant Layout
    * Allows the user to see the layout of the resturant of their choice
-   * ...r
+* Booking Screen
+   * Upon selecting a table within the restaurant layout useers select the amount of guests, reservation date, and preffered time.
+   
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Search
+* Resturant Layout
+* Booking
 
 **Flow Navigation** (Screen to Screen)
 
