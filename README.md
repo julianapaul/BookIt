@@ -41,14 +41,11 @@ A restaurant reservation app that will let the users book a table at their favor
 
 ### 2. Screen Archetypes
 
-* Login
-* Register
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
-
+* Search Screen
+   * Allows user to search up the resturant they to eat at
+* Resturant Layout
+   * Allows the user to see the layout of the resturant of their choice
+   * ...r
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -68,7 +65,7 @@ A restaurant reservation app that will let the users book a table at their favor
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="(https://user-images.githubusercontent.com/47541852/115563590-b66ed900-a285-11eb-9f0a-06b33f126a79.JPG)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
