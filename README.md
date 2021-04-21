@@ -58,12 +58,9 @@ A restaurant reservation app that will let the users book a table at their favor
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Search Screen -> Text field to be modified
+* Restaurant selection -> Restaurant layout
+* Table Selection -> Booking sreen
 
 ## Wireframes
 <img src="BookIt Wireframes.JPG" width=600>
