@@ -26,11 +26,9 @@ A restaurant reservation app that will let the users book a table at their favor
 **Required Must-have Stories**
 
 * User can search the restaurant of the their choice.
-* Profile pages for each user
-* User can book at table.
+* User can book a table and confirm the reservation.
 * User can see the resturants availability.
 * User can see the number of seats available at a table.
-* User can log in to confirm bookings.
 
 **Optional Nice-to-have Stories**
 
