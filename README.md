@@ -68,9 +68,33 @@ A restaurant reservation app that will let the users book a table at their favor
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+#### User
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique id for each user |
+   | username      | String   | unique name used for authentication |
+   | password      | String   | password used in combination with username for authentication |
+   
+#### Restaurant Name
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique Id for each restaurant |
+   | restaurantName| String   | Field stating the name of each restaurant |
+   | location      | String   | location of each restaurant |
+   
+#### Transactions
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique ID used to identify each record of a transaction |
+   | userBooked    | Pointer to User | points to the user object who booked the table |
+   | numOfOccupants| Number   | Number of people who will be in attendance |
+   | tableType     | ?        | The type of table selected |
+   | datteTime.    | Date     | The time that the user booked the table for |
+   
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
