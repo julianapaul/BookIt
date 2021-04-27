@@ -91,9 +91,9 @@ A restaurant reservation app that will let the users book a table at their favor
    | ------------- | -------- | ------------|
    | objectId      | String   | unique ID used to identify each record of a transaction |
    | userBooked    | Pointer to User | points to the user object who booked the table |
-   | numOfOccupants| Number   | Number of people who will be in attendance |
-   | tableType     | ?        | The type of table selected |
-   | datteTime.    | Date     | The time that the user booked the table for |
+   | numOfOccupants| Number   | number of people who will be in attendance |
+   | tableType     | Number   | the type of table selected |
+   | dateTime      | Date     | the time that the user booked the table for |
    
 ### Networking
 - [Add list of network requests by screen ]
