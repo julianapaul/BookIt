@@ -96,6 +96,9 @@ A restaurant reservation app that will let the users book a table at their favor
    | dateTime      | Date     | the time that the user booked the table for |
    
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+- Restaurant Search Screen
+  - (Read/GET) Query all searched or similarly searched restaurants
+    ``` Java
+    
+    ```
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
